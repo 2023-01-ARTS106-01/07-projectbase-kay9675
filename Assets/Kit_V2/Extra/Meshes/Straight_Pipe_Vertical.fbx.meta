@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d16ad866714cb2149bddbe176ad1950a
+guid: 687304ebebcb6e5a09ae70105229f11f
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -7,13 +7,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Marble
-    second: {fileID: 2100000, guid: db5c7fb7a2641deecada85504fae07d0, type: 2}
+      name: RustyMetal
+    second: {fileID: 2100000, guid: 1a9d0b00f38e3bf89a9a2989a463847f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: MetalTest
-    second: {fileID: 2100000, guid: 113062e34c8dc9377b713b492b640ed5, type: 2}
+      name: VeryShinyMetal
+    second: {fileID: 2100000, guid: 4c16378e78c273c0495e5b90e46f13a3, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

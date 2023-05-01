@@ -1,19 +1,17 @@
 fileFormatVersion: 2
-guid: d16ad866714cb2149bddbe176ad1950a
+guid: ced2df8ffb0b623c0974b760275341cb
 ModelImporter:
   serializedVersion: 21202
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Marble
-    second: {fileID: 2100000, guid: db5c7fb7a2641deecada85504fae07d0, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: MetalTest
-    second: {fileID: 2100000, guid: 113062e34c8dc9377b713b492b640ed5, type: 2}
+      name: Bricks2
+    second: {fileID: 2100000, guid: 58146947c53336dccb9ac5aae53112f3, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
